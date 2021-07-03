@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-The code is running with no issue using Python versions 3.8.5.
+The code is running with no issue using Python versions 3.8.x.
 
 Below are the necessary libraries and versions used for this project.
 - xgboost==1.4.2
