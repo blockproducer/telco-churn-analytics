@@ -16,11 +16,15 @@ Below are the necessary libraries and versions used for this project.
 - seaborn==0.11.1
 
 
-## Project Motivation<a name="motivation"></a>
+## Project Motivation <a name="motivation"></a>
 
 I was interested in developing methodology of churn analytics providing not only predictive model also related actionable insights according to customer's service status by applying SHAP (SHapley Additive exPlanations).
-Through this project, we mainly wanted to get answers to the following questions.
+Through this project, I mainly want to get answers to the following questions.
 
 1. What factors about an individual customer largely contributed to potential churn probability?
 2. Can we quantify the contribution of each factor to the potential churn chance for each customer?
 3. Can we get any insights to act (e.g., providing personalized promotion) to boost loyalty  according to customer's service usage status (contract type, tenure month, internet service)?
+
+In conclusion, the following results were obtained.
+- Finding of key features implicating customer churn
+- Finding boundary of monthly charge distinguishing churn probability by service in use by customers and contract type
